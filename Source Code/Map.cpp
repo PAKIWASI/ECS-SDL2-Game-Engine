@@ -1,5 +1,5 @@
-#include "Map.h"
-#include "TextureManager.h"
+#include "../Header Files/Map.h"
+#include "../Header Files/TextureManager.h"
 
 
 int lvl1[20][25] =

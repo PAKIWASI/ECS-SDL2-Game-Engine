@@ -1,9 +1,10 @@
-#include "Game.h"
-#include "TextureManager.h"
-#include "Map.h"
-#include "Components.h"
-#include "Vector2D.h"
-#include "Collision.h"
+#include "../Header Files/Game.h"
+#include "../Header Files/TextureManager.h"
+#include "../Header Files/Map.h"
+#include "../ECS/Components.h"
+#include "../Header Files/Vector2D.h"
+#include "../Header Files/Collision.h"
+
 
 
 Map* map = nullptr;

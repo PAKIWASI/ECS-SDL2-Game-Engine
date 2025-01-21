@@ -1,7 +1,7 @@
 #pragma once
 
 #include <SDL.h>
-#include "ColliderComponent.h"
+#include "../ECS/ColliderComponent.h"
 
 
 struct Collision

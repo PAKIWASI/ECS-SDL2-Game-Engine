@@ -1,4 +1,4 @@
-#include "Game.h"
+#include "../Header Files/Game.h"
 
 
 int main(int argc, char** args)
@@ -28,5 +28,5 @@ int main(int argc, char** args)
 	delete game;
 	game = nullptr;
 
-	return 0;
+	return 69;
 }
